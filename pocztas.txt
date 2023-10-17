@@ -1,0 +1,12 @@
+<html>
+	<head>
+			<title> Poczta </title>
+		<meta>
+		</meta>
+	</head>
+		<body>
+Poczta <br>
+				<A HREF="index.html"> wróć </A>
+		</body>	
+ 
+</html>

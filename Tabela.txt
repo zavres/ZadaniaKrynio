@@ -1,0 +1,12 @@
+<html>
+	<head>
+			<title> Tabela </title>
+		<meta>
+		</meta>
+	</head>
+		<body>
+Tabela <br>
+	<A HREF="index"> wróć </A>
+		</body>	
+ 
+</html>
